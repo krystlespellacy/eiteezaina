@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ievozafier.whoisdanfonseca.com/sitemap.xml
